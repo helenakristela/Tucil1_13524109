@@ -1,0 +1,12 @@
+AB#CCCCCC
+ABBCC#DEC
+#AACCDDEC
+CCCCCD#EC
+CCCC#CCCC
+C#GGCCCCC
+CFFGCCHH#
+CFG#CCHIH
+CCCCCCH#H
+Waktu eksekusi: 952.55 ms
+
+Banyak kasus yang ditinjau: 101213 kasus

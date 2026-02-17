@@ -1,0 +1,7 @@
+AAB
+ACB
+CCB
+
+Tidak Ada Solusi
+Waktu eksekusi: 0.12 ms
+Banyak kasus yang ditinjau: 6 kasus
